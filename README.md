@@ -2,6 +2,8 @@
 
 Welcome to the world of Hadoop! In this guide, we'll embark on a journey to understand the fundamentals of Hadoop, its key components, and walk through engaging examples to solidify your knowledge.
 
+![Weather Analysis](https://github.com/iamchaitanya7/Weather_Analysis_Hadoop/blob/main/hadoop.png)
+
 ## - Hadoop: Taming Big Data
 
 Hadoop is a game-changer in the world of big data. It enables the processing of enormous datasets by distributing the workload across clusters of computers.
